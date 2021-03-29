@@ -5,7 +5,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/a3X3k)
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Computer Science UnderGraduate at <a href="http://www.unb.br">Amrita Vishwa Vidyapeetham</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Computer Science UnderGraduate at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 - I was born and raised in the heart of Tamilnadu and grew up as a very outgoing and active child. 
 
