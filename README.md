@@ -39,10 +39,11 @@
 <a href="https://instagram.com/https://www.instagram.com/a.b.h.i.a.b.h.i/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/a.b.h.i.a.b.h.i/" height="30" width="40" /></a>
 </p>
 
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact" alt="a3x3k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a3x3k&" alt="a3x3k" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en" alt="a3x3k" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en" alt="a3x3k" /></p>
 
