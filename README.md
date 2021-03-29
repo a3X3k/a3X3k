@@ -15,7 +15,14 @@ download backup
 
 preview
 <h1 align="center">Hi 👋, I'm S Abhishek</h1>
-<h3 align="center">I was born and raised in the heart of Tamilnadu and grew up as a very outgoing and active child. I aspire to receive a Bachelor's Degree in Computer Science from Amrita Vishwa Vidyapeetham (Amritapuri Campus). I was involved in campus activities and organized many team works during my Intermediate. I can drive new and innovative ideas, taking an iterative approach to continually learning and optimizing. I wish to explore the world to solve technical problems and unite the ideas of technology with the efficiency of computers to solve problems in our complex world. Competitive contributing member & captain of internationally recognized security research & CTF team. Aspiring forensic examiner with proven experience in digital forensics with a specific focus on memory forensics, malware detection & network forensics. Team bi0s is India's No.1 CTF team according to ctftime.org</h3>
+- I was born and raised in the heart of Tamilnadu and grew up as a very outgoing and active child. 
+- I aspire to receive a Bachelor's Degree in Computer Science from Amrita Vishwa Vidyapeetham (Amritapuri Campus). 
+- I was involved in campus activities and organized many team works during my Intermediate. 
+- I can drive new and innovative ideas, taking an iterative approach to continually learning and optimizing. 
+- I wish to explore the world to solve technical problems and unite the ideas of technology with the efficiency of computers to solve problems in our complex world. 
+- Competitive contributing member & captain of internationally recognized security research & CTF team. 
+- Aspiring forensic examiner with proven experience in digital forensics with a specific focus on memory forensics, malware detection & network forensics. 
+- Team bi0s is India's No.1 CTF team according to ctftime.org</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a3x3k&label=Profile%20views&color=0e75b6&style=flat" alt="a3x3k" /> </p>
 
@@ -48,17 +55,6 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a3x3k&" alt="a3x3k" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypalPaypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
 Pages
 Addons
 Support
@@ -72,5 +68,3 @@ Join Community
 Discord of the community
 Developed in India 🇮🇳
 Buy Me A Coffee
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a3X3k&show_icons=true)
