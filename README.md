@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm S Abhishek </h1>
 
 - I was born and raised in the heart of Tamilnadu and grew up as a very outgoing and active child. 
+
 - I aspire to receive a Bachelor's Degree in Computer Science from Amrita Vishwa Vidyapeetham (Amritapuri Campus). 
-- I was involved in campus activities and organized many team works during my Intermediate. 
+
 - I can drive new and innovative ideas, taking an iterative approach to continually learning and optimizing. 
+
 - I wish to explore the world to solve technical problems and unite the ideas of technology with the efficiency of computers to solve problems in our complex world. 
-- Competitive contributing member & captain of internationally recognized security research & CTF team. 
+
+- Competitive contributing member of internationally recognized security research & CTF team. 
+
 - Aspiring forensic examiner with proven experience in digital forensics with a specific focus on memory forensics, malware detection & network forensics. 
+
 - Team bi0s is India's No.1 CTF team according to ctftime.org</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a3x3k&label=Profile%20views&color=0e75b6&style=flat" alt="a3x3k" /> </p>
