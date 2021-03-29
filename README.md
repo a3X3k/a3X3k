@@ -1,20 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-3955
-Fork on GitHub
-726
+<h1 align="center">Hi 👋, I'm S Abhishek </h1>
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm S Abhishek</h1>
 - I was born and raised in the heart of Tamilnadu and grew up as a very outgoing and active child. 
 - I aspire to receive a Bachelor's Degree in Computer Science from Amrita Vishwa Vidyapeetham (Amritapuri Campus). 
 - I was involved in campus activities and organized many team works during my Intermediate. 
@@ -54,17 +39,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en" alt="a3x3k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a3x3k&" alt="a3x3k" /></p>
-
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
