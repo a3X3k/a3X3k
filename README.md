@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm S Abhishek <img src="https://media.giphy.com/media/VRixu7er2hzQ0DXi3B/giphy.gif" width="50">  </h1> 
+<h1 align="center">Hi 👋, I'm S Abhishek <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="50">  </h1> 
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/VRixu7er2hzQ0DXi3B/giphy.gif" width="230">
 <p><em>Computer Science UnderGraduate at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 - I was born and raised in the heart of Tamilnadu and grew up as a very outgoing and active child. 
