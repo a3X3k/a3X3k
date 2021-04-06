@@ -13,7 +13,7 @@
 
 - Competitive contributing member of internationally recognized security research & CTF team. 
 
-- Aspiring forensic examiner with proven experience in digital forensics with a specific focus on memory forensics, malware detection & network forensics. 
+- Aspiring forensic learner.
 
 - Team bi0s is India's No.1 CTF team according to ctftime.org</h3>
 
