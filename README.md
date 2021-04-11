@@ -47,7 +47,7 @@
 <a href="https://twitter.com/a3x3k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="a3x3k" height="50" width="50" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/s-abhishek-52299a181/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/s-abhishek-52299a181/" height="50" width="50" /></a> &nbsp;
 <a href="https://fb.com/https://www.facebook.com/abhishekabhi2002/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/abhishekabhi2002/" height="50" width="50" /></a> &nbsp;
-<a href="https://www.instagram.com/a.b.h.i.a.b.h.i/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/a.b.h.i.a.b.h.i/" height="50" width="50" /></a>
+<a href="https://www.instagram.com/a3X3k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/a.b.h.i.a.b.h.i/" height="50" width="50" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a3x3k&label=Profile%20views&color=0e75b6&style=flat" alt="a3x3k" /> </p>
