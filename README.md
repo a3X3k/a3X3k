@@ -3,11 +3,7 @@
   <img align="right" height="160" width="480" src="https://media.giphy.com/media/IPnODgvgPb8q0eUO0M/giphy.gif">
 </p>
 
-<p align="center">
-
-
-
-</p>
+<br><br><br>
 
 <h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm S Abhishek <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  </h1> 
 
