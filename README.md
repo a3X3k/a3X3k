@@ -1,3 +1,5 @@
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <h1 align="center">Hi 👋, I'm S Abhishek <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  </h1> 
 
 <img align='right' src="https://media.giphy.com/media/VRixu7er2hzQ0DXi3B/giphy.gif" width="230">
@@ -41,8 +43,6 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en" alt="a3x3k" /></p>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
