@@ -1,5 +1,7 @@
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="450" />
 
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <h1 align="center">Hi 👋, I'm S Abhishek <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  </h1> 
 
 <img align='right' src="https://media.giphy.com/media/VRixu7er2hzQ0DXi3B/giphy.gif" width="230">
