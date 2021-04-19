@@ -70,8 +70,6 @@ Entertainment   4 hours            ████████░░░░░░░
 
 [![a3X3k's github activity graph](https://activity-graph.herokuapp.com/graph?username=a3X3k&theme=react-dark)](https://github.com/a3X3k)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=a3X3k" alt="a3X3k" /> </p>
-
 <hr>
 
 
@@ -94,5 +92,7 @@ Entertainment   4 hours            ████████░░░░░░░
 <p align="center">
 With ❤️ from India 🇮🇳 
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=a3X3k" alt="a3X3k" /> </p>
 
 </div>
