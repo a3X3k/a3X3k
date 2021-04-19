@@ -53,22 +53,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en" alt="a3x3k" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/a3x3k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="a3x3k" height="50" width="50" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/s-abhishek-52299a181/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/s-abhishek-52299a181/" height="50" width="50" /></a> &nbsp;
-<a href="https://fb.com/https://www.facebook.com/abhishekabhi2002/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/abhishekabhi2002/" height="50" width="50" /></a> &nbsp;
-<a href="https://www.instagram.com/a3X3k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/a.b.h.i.a.b.h.i/" height="50" width="50" /></a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a3x3k&label=Profile%20views&color=0e75b6&style=flat" alt="a3x3k" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a3x3k" alt="a3x3k" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/a3x3k" target="blank"><img src="https://img.shields.io/twitter/follow/a3x3k?logo=twitter&style=for-the-badge" alt="a3x3k" /></a> </p>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 </div>
 
 <div align="center">
@@ -91,6 +75,22 @@ Entertainment   4 hours            ████████░░░░░░░
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a3X3k" alt="a3X3k" /> </p>
 
 <hr>
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/a3x3k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="a3x3k" height="50" width="50" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/s-abhishek-52299a181/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/s-abhishek-52299a181/" height="50" width="50" /></a> &nbsp;
+<a href="https://fb.com/https://www.facebook.com/abhishekabhi2002/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/abhishekabhi2002/" height="50" width="50" /></a> &nbsp;
+<a href="https://www.instagram.com/a3X3k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/a.b.h.i.a.b.h.i/" height="50" width="50" /></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a3x3k&label=Profile%20views&color=0e75b6&style=flat" alt="a3x3k" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a3x3k" alt="a3x3k" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/a3x3k" target="blank"><img src="https://img.shields.io/twitter/follow/a3x3k?logo=twitter&style=for-the-badge" alt="a3x3k" /></a> </p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="center">
 With ❤️ from India 🇮🇳 
