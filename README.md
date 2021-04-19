@@ -66,8 +66,6 @@ Entertainment   4 hours            ████████░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-</div>
-
 ### GitHub Stats
 
 [![a3X3k's github activity graph](https://activity-graph.herokuapp.com/graph?username=cyberShaw&theme=react-dark)](https://github.com/a3X3k)
@@ -75,6 +73,7 @@ Entertainment   4 hours            ████████░░░░░░░
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a3X3k" alt="a3X3k" /> </p>
 
 <hr>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -96,3 +95,4 @@ Entertainment   4 hours            ████████░░░░░░░
 With ❤️ from India 🇮🇳 
 </p>
 
+</div>
