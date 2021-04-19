@@ -68,7 +68,7 @@ Entertainment   4 hours            ████████░░░░░░░
 
 ### GitHub Stats
 
-[![a3X3k's github activity graph](https://activity-graph.herokuapp.com/graph?username=cyberShaw&theme=react-dark)](https://github.com/a3X3k)
+[![a3X3k's github activity graph](https://activity-graph.herokuapp.com/graph?username=a3X3k&theme=react-dark)](https://github.com/a3X3k)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a3X3k" alt="a3X3k" /> </p>
 
