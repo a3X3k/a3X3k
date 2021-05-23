@@ -43,8 +43,7 @@ Academics       ████████████░░░░░░░░░�
 Entertainment    █████████░░░░░░░░░░░░░░░░   20.0 % 
 ```
 <!--END_SECTION:waka-->
-  
-**LANGUAGES AND TOOLS:**  
+
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
@@ -59,7 +58,6 @@ Entertainment    █████████░░░░░░░░░░░░
 </code>
 <br/>
 
-#
 <details close="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
