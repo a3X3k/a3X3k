@@ -53,7 +53,7 @@
 <!--START_SECTION:waka-->
 ```text
 CTF             18 hours 39 mins   ██████████████░░░░░░░░░░░   50.0 % 
-Academics       10 hours           ████████████░░░░░░░░░░░░   30.0 %
+Academics       10 hours           ████████████░░░░░░░░░░░░░   30.0 %
 Entertainment   7 hours            █████████░░░░░░░░░░░░░░░░   20.0 % 
 ```
 <!--END_SECTION:waka-->
