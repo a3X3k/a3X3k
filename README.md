@@ -84,7 +84,7 @@ With ❤️ from India 🇮🇳
 <table>
   <tr>
     <td>You are visitor</td>
-    <td>![Visitor Count](https://profile-counter.glitch.me/{a3x3k}/count.svg)</td>
+    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt=""/></td>
   </tr>
 </table>
 
