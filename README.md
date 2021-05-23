@@ -50,6 +50,7 @@
 <div align="center">
 
 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 ```text
 CTF             18 hours 39 mins   ██████████████░░░░░░░░░░░   50.0 % 
