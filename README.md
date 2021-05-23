@@ -84,11 +84,11 @@ With ❤️ from India 🇮🇳
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/a3x3k/count.svg" alt="" /></td>
+    <td>![Visitor Count](https://profile-counter.glitch.me/{a3x3k}/count.svg)</td>
   </tr>
 </table>
 
- ![Visitor Count](https://profile-counter.glitch.me/{a3x3k}/count.svg)
+ 
   
 </div>
 
