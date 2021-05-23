@@ -71,8 +71,8 @@ Entertainment    █████████░░░░░░░░░░░░
 <p align="center">
 <a href="https://github.com/a3x3k">
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&theme=tokyonight" />
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3x3k&count_private=true&theme=tokyonight" />
-  <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=a3X3k&theme=react-dark" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3x3k&count_private=true&theme=tokyonight" /><br>
+  <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=a3X3k&theme=react-dark" />
 </a> />
 </p>
 </details>
