@@ -16,15 +16,9 @@
 
 - I aspire to receive a Bachelor's Degree in Computer Science from Amrita Vishwa Vidyapeetham (Amritapuri Campus). 
 
-- I can drive new and innovative ideas, taking an iterative approach to continually learning and optimizing. 
+- Competitive contributing member of internationally recognized security research & CTF team @teamBi0s which is India's No.1 CTF team according to ctftime.org
 
-- I wish to explore the world to solve technical problems and unite the ideas of technology with the efficiency of computers to solve problems in our complex world. 
-
-- Competitive contributing member of internationally recognized security research & CTF team @teamBi0s. 
-
-- Aspiring forensic learner.
-
-- Team bi0s is India's No.1 CTF team according to ctftime.org</h3>
+</h3>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -32,7 +26,7 @@
 
 - 🌱 I’m currently learning **DFIR**
 
-- 💬 Ask me about **DFIR, Steganography**
+- 💬 Ask me about **Steganography**
 
 - 📫 How to reach me **abhishekabi2002@gmail.com**
 
@@ -58,9 +52,9 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-CTF             18 hours 39 mins   █████████████████░░░░░░░░   60.0 % 
-Academics       10 hours           ████████░░░░░░░░░░░░░░░░░   30.0 %
-Entertainment   4 hours            ████████░░░░░░░░░░░░░░░░░   10.0 % 
+CTF             18 hours 39 mins   ██████████████░░░░░░░░░░░   50.0 % 
+Academics       10 hours           ████████████░░░░░░░░░░░░░   30.0 %
+Entertainment   7 hours            █████████░░░░░░░░░░░░░░░░   20.0 % 
 ```
 <!--END_SECTION:waka-->
 
