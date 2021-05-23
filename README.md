@@ -83,29 +83,14 @@ Entertainment   4 hours            ████████░░░░░░░
 <a href="https://www.instagram.com/a3X3k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/a.b.h.i.a.b.h.i/" height="50" width="50" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a3x3k&label=Profile%20views&color=0e75b6&style=flat" alt="a3x3k" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a3x3k" alt="a3x3k" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/a3x3k" target="blank"><img src="https://img.shields.io/twitter/follow/a3x3k?logo=twitter&style=for-the-badge" alt="a3x3k" /></a> </p>
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="center">
 With ❤️ from India 🇮🇳 
 </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=a3X3k" alt="a3X3k" /> </p>
-
+  
+![Visitor Count](https://profile-counter.glitch.me/{a3x3k}/count.svg)
+  
 </div>
 
-<details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
-
-</details>
-
-![Visitor Count](https://profile-counter.glitch.me/{a3x3k}/count.svg)
- 
 <p align="center"><a href="https://github.com/a3x3k"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
