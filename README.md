@@ -79,8 +79,16 @@ Entertainment    █████████░░░░░░░░░░░░
 <p align="center">
 With ❤️ from India 🇮🇳 
 </p>
-  
-![Visitor Count](https://profile-counter.glitch.me/{a3x3k}/count.svg)
+
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/a3x3k/count.svg" alt="" /></td>
+  </tr>
+</table>
+
+ ![Visitor Count](https://profile-counter.glitch.me/{a3x3k}/count.svg)
   
 </div>
 
