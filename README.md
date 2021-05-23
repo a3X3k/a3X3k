@@ -20,7 +20,7 @@
 
 - I wish to explore the world to solve technical problems and unite the ideas of technology with the efficiency of computers to solve problems in our complex world. 
 
-- Competitive contributing member of internationally recognized security research & CTF team. 
+- Competitive contributing member of internationally recognized security research & CTF team @teamBi0s. 
 
 - Aspiring forensic learner.
 
