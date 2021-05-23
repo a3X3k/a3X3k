@@ -58,6 +58,36 @@ Academics       ████████████░░░░░░░░░�
 Entertainment    █████████░░░░░░░░░░░░░░░░   20.0 % 
 ```
 <!--END_SECTION:waka-->
+  
+**LANGUAGES AND TOOLS:**  
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+</code>
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<br/>
+
+#
+<details close="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+  <strong>Github Stats : </strong>
+</summary>
+<br>
+  
+<p align="center">
+<a href="https://github.com/a3x3k">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&theme=tokyonight" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pa3x3k&count_private=true&theme=tokyonight" />
+</a>
+</p>
+</details>
+<br>
 
 ### GitHub Stats
 
