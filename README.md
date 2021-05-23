@@ -73,6 +73,27 @@ Entertainment    █████████░░░░░░░░░░░░
 <a href="https://fb.com/https://www.facebook.com/abhishekabhi2002/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/abhishekabhi2002/" height="50" width="50" /></a> &nbsp;
 <a href="https://www.instagram.com/a3X3k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/a.b.h.i.a.b.h.i/" height="50" width="50" /></a>
 </p>
+  
+<h1>
+  Connect With Me <a target="_blank">
+  <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
+  </a>
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://twitter.com/a3x3k" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/twitter.svg"/></code>
+  </a>
+    <a href="https://github.com/a3x3k">
+    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
+  </a>
+  <a href="https://discord.gg/XQbq8KaqVw">
+    <code>
+      <img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Discord-Logo-Black.png">
+    </code>
+  </a>
+</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
