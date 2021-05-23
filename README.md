@@ -36,12 +36,6 @@
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en" alt="a3x3k" /></p>
-
 </div>
 
 <div align="center">
@@ -78,7 +72,6 @@ Entertainment    █████████░░░░░░░░░░░░
 <a href="https://github.com/a3x3k">
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&theme=tokyonight" />
   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3x3k&count_private=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact" alt="a3x3k" />
 </a>
 </p>
 </details>
@@ -96,15 +89,6 @@ Entertainment    █████████░░░░░░░░░░░░
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a3x3k&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
   </a>
-</p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/a3x3k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="a3x3k" height="50" width="50" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/s-abhishek-52299a181/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/s-abhishek-52299a181/" height="50" width="50" /></a> &nbsp;
-<a href="https://fb.com/https://www.facebook.com/abhishekabhi2002/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/abhishekabhi2002/" height="50" width="50" /></a> &nbsp;
-<a href="https://www.instagram.com/a3X3k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/a.b.h.i.a.b.h.i/" height="50" width="50" /></a>
 </p>
   
 <h1>
@@ -124,6 +108,24 @@ Entertainment    █████████░░░░░░░░░░░░
   <a href="https://discord.com/users/766592972040699925">
     <code>
       <img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Discord-Logo-Black.png">
+    </code>
+  </a>
+    <a href="https://www.linkedin.com/in/s-abhishek-52299a181/">
+    <code>
+      <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg">
+    </code>
+  </a>
+    </a>
+    <a href="https://www.facebook.com/a3x3k/">
+    <code>
+      <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg">
+    </code>
+  </a>
+    </a>
+    </a>
+    <a href="https://www.instagram.com/a3X3k/">
+    <code>
+      <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
     </code>
   </a>
 </p>
