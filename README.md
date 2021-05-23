@@ -62,7 +62,7 @@ Entertainment    █████████░░░░░░░░░░░░
 <details close="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>Github Stats : </strong>
+  <strong>Github Stats</strong>
 </summary>
 <br>
   
@@ -76,10 +76,8 @@ Entertainment    █████████░░░░░░░░░░░░
 </a>
 </p>
 </details>
-<br>
 
 <hr>
-  
   <p align="center">
   <a href="https://github.com/a3x3k">
     <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
