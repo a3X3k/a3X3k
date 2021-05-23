@@ -64,6 +64,14 @@ Entertainment    █████████░░░░░░░░░░░░
 [![a3X3k's github activity graph](https://activity-graph.herokuapp.com/graph?username=a3X3k&theme=react-dark)](https://github.com/a3X3k)
 
 <hr>
+  
+  <p align="center">
+  <a href="https://github.com/a3x3k">
+    <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a3x3k&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
+  </a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
