@@ -90,6 +90,12 @@ Entertainment   4 hours            ████████░░░░░░░
 <p align="left"> <a href="https://twitter.com/a3x3k" target="blank"><img src="https://img.shields.io/twitter/follow/a3x3k?logo=twitter&style=for-the-badge" alt="a3x3k" /></a> </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&theme=gotham" alt="a3x3k | Stats" />
+
+</details>
 
 <p align="center">
 With ❤️ from India 🇮🇳 
