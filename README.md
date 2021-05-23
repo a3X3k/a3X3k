@@ -88,7 +88,7 @@ Entertainment    █████████░░░░░░░░░░░░
     <a href="https://github.com/a3x3k">
     <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
   </a>
-  <a href="https://discord.gg/XQbq8KaqVw">
+  <a href="https://discord.com/users/766592972040699925">
     <code>
       <img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Discord-Logo-Black.png">
     </code>
