@@ -81,11 +81,11 @@ Entertainment    █████████░░░░░░░░░░░░
   <p align="center">
   <a href="https://github.com/a3x3k">
     <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a3x3k&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=a3x3k&theme=highcontrast&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
   </a>
 </p>
-  
+
 <h1>
   Connect With Me <a target="_blank">
   <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
