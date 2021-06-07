@@ -139,7 +139,7 @@ With ❤️ from India 🇮🇳
   </tr>
 </table>
 
-![](https://github-contributions.now.sh https://pbs.twimg.com/media/E3SzUL5UYAEkTdb.png)
+![](https://pbs.twimg.com/media/E3SzUL5UYAEkTdb.png)
   
 </div>
 
