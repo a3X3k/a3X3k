@@ -138,8 +138,6 @@ With ❤️ from India 🇮🇳
     <td><img src="https://profile-counter.glitch.me/a3x3k/count.svg" alt=""/></td>
   </tr>
 </table>
-
-![](https://pbs.twimg.com/media/E3SzUL5UYAEkTdb.png)
   
 </div>
 
