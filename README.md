@@ -34,7 +34,7 @@
 
 <div align="center">
 
-📊 **I Spent My Time On:**
+📊 **I Spend My Time On:**
 
 <!--START_SECTION:waka-->
 ```text
