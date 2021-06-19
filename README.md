@@ -105,7 +105,7 @@ Entertainment    █████████░░░░░░░░░░░░
       <img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Discord-Logo-Black.png">
     </code>
   </a>
-    <a href="https://www.linkedin.com/in/s-abhishek-52299a181/">
+    <a href="https://www.linkedin.com/in/abhishek-s-52299a181/">
     <code>
       <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg">
     </code>
