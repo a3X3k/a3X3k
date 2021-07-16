@@ -12,22 +12,16 @@
 
 </div>
 
-- I was born and raised in the heart of Tamilnadu and grew up as a very outgoing and active child. 
-
 - I aspire to receive a Bachelor's Degree in Computer Science from Amrita Vishwa Vidyapeetham (Amritapuri Campus). 
 
-- Competitive contributing member of internationally recognized security research & CTF team @teamBi0s which is India's No.1 CTF team according to ctftime.org
+- Member of internationally recognized security research & CTF team [`@teamBi0s`](https://bi0s.in/) which is India's No.1 CTF team according to ctftime.org
 
 </h3>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 I’m currently working on **Digital Forensics**
-
 - 🌱 I’m currently learning **DFIR**
-
-- 💬 Ask me about **Steganography**
-
 - 📫 How to reach me **abhishekabi2002@gmail.com**
 
 </div>
