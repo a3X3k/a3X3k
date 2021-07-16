@@ -96,32 +96,32 @@
 <p align="center">
   <br>
   <a href="https://twitter.com/a3x3k" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/a3X3k/-Random-/blob/main/logo.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/a3X3k/-Random-/blob/main/T.svg"/></code>
   </a>
     <a href="https://github.com/a3x3k">
-    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
+    <code><img height="60" width="60" src="https://github.com/a3X3k/-Random-/blob/main/G.svg"></code>  
   </a>
   <a href="https://discord.com/users/766592972040699925">
     <code>
-      <img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Discord-Logo-Black.png">
+      <img height="60" width="60" src="hhttps://github.com/a3X3k/-Random-/blob/main/D.svg">
     </code>
   </a>
     <a href="https://www.linkedin.com/in/abhishek-s-52299a181/">
     <code>
-      <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg">
+      <img height="60" width="60" src="https://github.com/a3X3k/-Random-/blob/main/L.svg">
     </code>
   </a>
     </a>
     <a href="https://www.facebook.com/a3x3k/">
     <code>
-      <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg">
+      <img height="60" width="60" src="https://github.com/a3X3k/-Random-/blob/main/F.svg">
     </code>
   </a>
     </a>
     </a>
     <a href="https://www.instagram.com/a3X3k/">
     <code>
-      <img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
+      <img height="60" width="60" src="https://github.com/a3X3k/-Random-/blob/main/I.svg">
     </code>
   </a>
 </p>
