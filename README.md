@@ -47,9 +47,7 @@
 <br/>
 <br/>
 
-<div align="center">
-
-## [`My Recent Blog Posts!`](https://a3x3k.medium.com/)
+### [`My Recent Blog Posts!`](https://a3x3k.medium.com/)
 
 | Topics |
 | :-----: |
@@ -59,8 +57,8 @@
 | [`BOOTP Protocol`](https://a3x3k.medium.com/bootp-f51afbb9578b) |
 | [`RARP Protocol`](https://a3x3k.medium.com/rarp-f33aae076ba0) |
   
-</div>
 
+<br/> 
 
 <details close="">
 <summary>
