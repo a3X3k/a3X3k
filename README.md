@@ -21,7 +21,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 I’m currently working on **Digital Forensics**
-- 🌱 I’m currently learning **DFIR**
 - 📫 How to reach me **abhishekabi2002@gmail.com**
 
 </div>
