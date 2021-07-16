@@ -55,7 +55,7 @@
 
 | Topics | Category |
 | :-----: | :-----: | 
-| ## [`All about OS`](https://a3x3k.medium.com/all-about-os-91744c29ebef) | What is Patch, Service Pack & Build | 
+| [`All about OS`](https://a3x3k.medium.com/all-about-os-91744c29ebef) | What is Patch, Service Pack & Build | 
 | [`Memory Forensics`](https://a3x3k.medium.com/memory-forensics-d769ad20cff8) | Introduction to Memory Forensics | 
 | [`DHCP Protocol`](https://a3x3k.medium.com/dhcp-4c329c2e8da6) | What is DHCP & Why DHCP? |
 | [`BOOTP Protocol`](https://a3x3k.medium.com/bootp-f51afbb9578b) | IP Address Mapping by BOOTP |
