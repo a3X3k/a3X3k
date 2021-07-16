@@ -73,9 +73,6 @@ Entertainment    █████████░░░░░░░░░░░░
   <img height="100%" width="100%" src="https://activity-graph.herokuapp.com/graph?username=a3X3k&theme=react-dark" />
 </a>
 </p>
-<br/>
-  
-![Chart not found](https://raw.githubusercontent.com/a3x3k/a3x3k/master/charts/bar_graph.png) 
 
 </details>
 
