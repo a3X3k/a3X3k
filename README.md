@@ -36,13 +36,11 @@
 
 📊 **I Spend My Time On:**
 
-<!--START_SECTION:waka-->
 ```text
 CTF              ██████████████░░░░░░░░░░░   50.0 % 
 Academics       ████████████░░░░░░░░░░░░░   30.0 %
 Entertainment    █████████░░░░░░░░░░░░░░░░   20.0 % 
 ```
-<!--END_SECTION:waka-->
 
 <br/>
 <br/>
@@ -75,6 +73,9 @@ Entertainment    █████████░░░░░░░░░░░░
   <img height="100%" width="100%" src="https://activity-graph.herokuapp.com/graph?username=a3X3k&theme=react-dark" />
 </a>
 </p>
+<br/>
+  
+![Chart not found](https://raw.githubusercontent.com/a3x3k/a3x3k/master/charts/bar_graph.png) 
 
 </details>
 
