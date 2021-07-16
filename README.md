@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
 
-📊 **I Spend My Time On:**
+### 📊 I Spend My Time On :
 
 > Learning Stuffs :)  █████████████████████░░   99.0 % 
 
