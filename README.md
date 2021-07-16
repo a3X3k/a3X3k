@@ -47,6 +47,21 @@
 <br/>
 <br/>
 
+<div align="center">
+
+## [`My Recent Blog Posts!`](https://a3x3k.medium.com/)
+
+| Topics |
+| :-----: |
+| [`All about OS`](https://a3x3k.medium.com/all-about-os-91744c29ebef) |
+| [`Memory Forensics`](https://a3x3k.medium.com/memory-forensics-d769ad20cff8) |
+| [`DHCP Protocol`](https://a3x3k.medium.com/dhcp-4c329c2e8da6) |
+| [`BOOTP Protocol`](https://a3x3k.medium.com/bootp-f51afbb9578b) |
+| [`RARP Protocol`](https://a3x3k.medium.com/rarp-f33aae076ba0) |
+  
+</div>
+
+
 <details close="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
