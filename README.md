@@ -96,7 +96,7 @@
 <p align="center">
   <br>
   <a href="https://twitter.com/a3x3k" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/twitter.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/a3X3k/-Random-/blob/main/logo.svg"/></code>
   </a>
     <a href="https://github.com/a3x3k">
     <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
