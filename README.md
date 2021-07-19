@@ -83,7 +83,6 @@
 
 </details>
 
-<hr>
   <p align="center">
   <a href="https://github.com/a3x3k">
     <img height="150" width="190" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
