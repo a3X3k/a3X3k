@@ -83,13 +83,11 @@
 
 </details>
 
-  <p align="center">
-  <a href="https://github.com/a3x3k">
+  <a href="https://github.com/a3x3k" align="center">
     <img height="150" width="190" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
     <img height="450" width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=a3x3k&theme=highcontrast&hide_border=true"/>
     <img height="150" width="150" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
   </a>
-</p>
 
 <h1>
   Connect With Me <a target="_blank">
