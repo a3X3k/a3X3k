@@ -77,6 +77,11 @@
   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3x3k&count_private=true&theme=tokyonight" />
   <br>
   <br>
+    <a href="https://github.com/a3x3k" align="center">
+    <img height="150" width="190" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
+    <img height="450" width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=a3x3k&theme=highcontrast&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
+  </a>
 </a>
 </p>
 
@@ -125,12 +130,10 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=a3x3k&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/a3x3k)
 
-  <img height="100%" width="100%" src="https://activity-graph.herokuapp.com/graph?username=a3X3k&theme=react-dark" />
-    <a href="https://github.com/a3x3k" align="center">
-    <img height="150" width="190" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
-    <img height="450" width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=a3x3k&theme=highcontrast&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
-  </a>
+<br/>
+
+<img height="100%" width="100%" src="https://activity-graph.herokuapp.com/graph?username=a3X3k&theme=react-dark" />
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
