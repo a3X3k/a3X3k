@@ -127,6 +127,16 @@
   </a>
 </p>
 
+<h1 align="center">
+<code align="center">
+      :Github Profile Stats:
+</code>
+</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=a3x3k&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/a3x3k)
+
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="center">
