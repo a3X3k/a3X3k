@@ -128,12 +128,17 @@
 </p>
 
 <h1 align="center">
+
 <code align="center">
-      :Github Profile Stats:
+     
+  Github Profile Stats
+
 </code>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=a3x3k&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/a3x3k)
+
 </h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=a3x3k&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/a3x3k)
 
 
 
