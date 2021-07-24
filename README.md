@@ -54,7 +54,7 @@
 
 </div>
 
-### [`📕 My Latest Blog Posts!`](https://a3x3k.medium.com/)
+### 📕 My Latest Blog Posts!
 
 <br/>
 
