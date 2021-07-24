@@ -53,6 +53,7 @@
 <br/>
 
 ### [`My Recent Blog Posts!`](https://a3x3k.medium.com/)
+</div>
 
 <br/>
 
@@ -63,7 +64,8 @@
 - [RARP Protocol - What is RARP & Issues with the Reverse ARP & Solution ](https://a3x3k.medium.com/rarp-f33aae076ba0)
 
 <br/> 
-
+<div align="center">
+  
 <details close="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
