@@ -129,10 +129,12 @@
 </p>
 
 <br/>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=a3x3k&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/a3x3k)
 
 <i><h2>Git Activeness</h2></i>
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=a3x3k&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/a3x3k)
 
 <br/>
 
