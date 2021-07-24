@@ -56,13 +56,11 @@
 
 <br/>
 
-| Topics | Category |
-| :-----: | :-----: | 
-| [`All about OS`](https://a3x3k.medium.com/all-about-os-91744c29ebef) | What is Patch, Service Pack & Build | 
-| [`Memory Forensics`](https://a3x3k.medium.com/memory-forensics-d769ad20cff8) | Introduction to Memory Forensics | 
-| [`DHCP Protocol`](https://a3x3k.medium.com/dhcp-4c329c2e8da6) | What is DHCP & Why DHCP? |
-| [`BOOTP Protocol`](https://a3x3k.medium.com/bootp-f51afbb9578b) | IP Address Mapping by BOOTP |
-| [`RARP Protocol`](https://a3x3k.medium.com/rarp-f33aae076ba0) | What is RARP & Issues with the Reverse ARP & Solution |
+- [All about OS - What is Patch, Service Pack & Build](https://a3x3k.medium.com/all-about-os-91744c29ebef)
+- [Memory Forensics - Introduction to Memory Forensics](https://a3x3k.medium.com/memory-forensics-d769ad20cff8)
+- [DHCP Protocol - What is DHCP & Why DHCP? ](https://a3x3k.medium.com/dhcp-4c329c2e8da6)
+- [BOOTP Protocol - IP Address Mapping by BOOTP](https://a3x3k.medium.com/bootp-f51afbb9578b)
+- [RARP Protocol - What is RARP & Issues with the Reverse ARP & Solution ](https://a3x3k.medium.com/rarp-f33aae076ba0)
 
 <br/> 
 
