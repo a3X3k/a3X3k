@@ -65,6 +65,17 @@
 - [RARP Protocol - What is RARP & Issues with the Reverse ARP & Solution ](https://a3x3k.medium.com/rarp-f33aae076ba0)
 
 <br/> 
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/)
+
+---
+
 <div align="center">
   
 <details close="">
