@@ -4,9 +4,11 @@
   <img src="https://media.giphy.com/media/UwvrqJ8Isv40oeSkuX/giphy.gif">
 </p>
 
-<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm S͙ A͙b͙h͙i͙s͙h͙e͙k͙ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
+<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm S Abhishek <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
 
 <div align="center">
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CTF+Player+@TeamBi0s;Digital+Forensics+Enthusiast;&center=true&width=500&height=50"></a>
   
 <p><em>Computer Science UnderGraduate at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
