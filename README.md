@@ -151,7 +151,7 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 <br/><br/><br/><br/><br/><br/><img height="100%" width="100%" src="https://activity-graph.herokuapp.com/graph?username=a3X3k&theme=react-dark" />
 
