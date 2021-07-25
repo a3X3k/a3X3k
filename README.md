@@ -122,7 +122,7 @@
       <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/D.svg">
     </code>
   </a>
-    <a href="https://www.linkedin.com/in/abhishek-s-52299a181/">
+    <a href="https://www.linkedin.com/in/a3x3k/">
     <code>
       <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/L.svg">
     </code>
