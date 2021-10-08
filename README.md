@@ -14,14 +14,13 @@
 
 </div>
 
-- Member of Security Research & CTF team [`@teamBi0s`](https://bi0s.in/)
-
 </h3>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+- Member of Security Research & CTF team [`@teamBi0s`](https://bi0s.in/)
 - 🔭 I’m currently working on **Digital Forensics**
 - 📫 How to reach me **abhishekabi2002@gmail.com**
 - Wanna Stalk My Blog? [`Here you go!!`](https://a3x3k.github.io/)
