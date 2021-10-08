@@ -14,9 +14,7 @@
 
 </div>
 
-- I aspire to receive a Bachelor's Degree in Computer Science from Amrita Vishwa Vidyapeetham (Amritapuri Campus). 
-
-- Member of internationally recognized security research & CTF team [`@teamBi0s`](https://bi0s.in/) which is India's No.1 CTF team according to ctftime.org
+- Member of Security Research & CTF team [`@teamBi0s`](https://bi0s.in/)
 
 </h3>
 
