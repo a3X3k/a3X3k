@@ -37,8 +37,6 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; I Spend My Time On :
   
 <br/>
-  
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 > Learning Stuffs :)  █████████████████████░░   99.0 % 
 
@@ -58,6 +56,8 @@
 <br/>
 
 </div>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 📕 My Latest Blog Posts!
 
