@@ -141,14 +141,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=a3x3k&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/a3x3k)
   
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="420" /></p>
+  
 </div>
 
 <br/>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="420" /></p>
 <br/><img height="100%" width="100%" src="https://activity-graph.herokuapp.com/graph?username=a3X3k&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"" />
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
