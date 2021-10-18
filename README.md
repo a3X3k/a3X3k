@@ -77,6 +77,14 @@
 
 ---
 
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a3x3k&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+  </a>
+</p>
+
 <div align="center">
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
