@@ -55,6 +55,8 @@
 
 ### 📕 My Latest Blog Posts!
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 <br/>
 
 - [All about OS - What is Patch, Service Pack & Build](https://a3x3k.medium.com/all-about-os-91744c29ebef)
@@ -99,6 +101,8 @@
 </p>
 
 </details>
+  
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
 
 <h1>
   Connect With Me <a target="_blank">
