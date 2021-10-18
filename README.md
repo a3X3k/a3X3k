@@ -76,10 +76,6 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/)
 
 ---
-
-<div align="center">
-  
-<details close="">
   
 <p align="center">
     <a href="https://github.com/a3x3k" align="center">
@@ -89,8 +85,6 @@
   </a>
 </a>
 </p>
-
-</details>
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
 
