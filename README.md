@@ -141,12 +141,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=a3x3k&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/a3x3k)
   
+<br/>
+  
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="420" /></p>
   
 </div>
-
-<br/>
 
 <br/>
 
@@ -156,10 +156,7 @@
 
 <div align="center">
   
-<p align="center">
-With ❤️ from India 🇮🇳 
-</p>
-
+<p align="center"> With ❤️ from India 🇮🇳 </p>
 
 <table>
   <tr>
