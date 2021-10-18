@@ -167,8 +167,14 @@
   
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  
+  <img src="https://gpvc.arturio.dev/a3x3k" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/a3x3k?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/a3x3k?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  
+</p>
 
 
 <p align="center"><a href="https://github.com/a3x3k"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
