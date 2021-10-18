@@ -77,32 +77,33 @@
 
 ---
 
-<div align="center">
-  
-<details close="">
+#
+
+<details open="">
 <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>Github Stats</strong>&nbsp;<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br>
-  
-<p align="center">
-<a href="https://github.com/a3x3k">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&theme=tokyonight" />
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3x3k&count_private=true&theme=tokyonight" />
-  <br>
-  <br>
-    <a href="https://github.com/a3x3k" align="center">
-    <img height="150" width="190" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
-    <img height="450" width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=a3x3k&theme=highcontrast&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
-  </a>
-</a>
-</p>
 
-</details>
+<p align="center">
+  <a href="https://github.com/a3x3k">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/a3x3k">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3x3k&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
+</p>
+</details>
+<br>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=a3x3k&theme=react-dark&hide_border=true&area=true)
+
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/a3x3k/a3x3k/blob/main/github-contribution-grid-snake.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+<br/>
 
 <h1>
   Connect With Me <a target="_blank">
