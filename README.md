@@ -11,20 +11,27 @@
 </h3>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 - Member of Security Research & CTF team [`@teamBi0s`](https://bi0s.in/)
 - 🔭 I’m currently working on **Digital Forensics**
 - 📫 How to reach me **abhishekabi2002@gmail.com**
 - Wanna Stalk My Blog? [`Here you go!!`](https://a3x3k.github.io/)
+
 </div>
 <br/>
+
 <div align="center">
+  
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; I Spend My Time On :
   
 <br/>
 > Learning Stuffs :)  █████████████████████░░   99.0 % 
 <br/>
+  
 <br/>
+  
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
+  
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
@@ -45,21 +52,6 @@
 <br/>
 
 - [All about OS - What is Patch, Service Pack & Build](https://a3x3k.medium.com/all-about-os-91744c29ebef)
-
-    
-          
-            
-    
-
-          
-          
-            
-    
-
-          
-    
-    @@ -99,6 +101,8 @@
-  
 - [Memory Forensics - Introduction to Memory Forensics](https://a3x3k.medium.com/memory-forensics-d769ad20cff8)
 - [DHCP Protocol - What is DHCP & Why DHCP? ](https://a3x3k.medium.com/dhcp-4c329c2e8da6)
 - [BOOTP Protocol - IP Address Mapping by BOOTP](https://a3x3k.medium.com/bootp-f51afbb9578b)
