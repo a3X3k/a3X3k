@@ -155,12 +155,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="420" /></p>
   
-<p align="left"><img src="https://raw.githubusercontent.com/a3x3k/a3x3k/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Top Languages by repo"></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/a3x3k/a3x3k/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Commits per day hour"></p>
-
-<p align="right"><img src="https://raw.githubusercontent.com/a3x3k/a3x3k/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Top languages by commits"></p>
-  
 </div>
 
 <br/>
