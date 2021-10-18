@@ -87,10 +87,6 @@
 <br>
   
 <p align="center">
-<a href="https://github.com/a3x3k">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&theme=tokyonight" />
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3x3k&count_private=true&theme=tokyonight" />
-  <br>
   <br>
     <a href="https://github.com/a3x3k" align="center">
     <img height="150" width="190" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
