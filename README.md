@@ -80,11 +80,6 @@
 <div align="center">
   
 <details close="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>Github Stats</strong>&nbsp;<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-</summary>
-<br>
   
 <p align="center">
     <a href="https://github.com/a3x3k" align="center">
