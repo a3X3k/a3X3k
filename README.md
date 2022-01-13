@@ -150,14 +150,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=a3x3k&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/a3x3k)
   
-<!-- <br/>
-  
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github-readme-stats.vercel.app/api?username=a3x3k&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="420" /></p> -->
+<br/>
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=a3x3k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
-<br/>
+<br/><br/>
   
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
