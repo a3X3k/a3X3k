@@ -156,6 +156,10 @@
 
 <br/><br/>
   
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a3x3k&theme=github_dark)   
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a3x3k&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rithvik78&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a3x3k&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a3x3k&theme=github_dark)
+  
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=a3x3k&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
 </div>
