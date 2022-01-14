@@ -95,7 +95,7 @@
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
   
-![snake gif](https://github.com/a3x3k/a3x3k/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/a3x3k/a3x3k/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
