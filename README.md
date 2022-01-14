@@ -79,10 +79,9 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/)
+[![Spotify](https://spotify-now-playing-rithvik78.vercel.app/api/spotify-playing)](https://open.spotify.com/)
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<div align="center"><img src="https://spotify-now-playing-a3x3k.vercel.app/api/spotify-playing" /></div>  
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> 
 
 <p align="center">
   <a>
