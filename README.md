@@ -156,11 +156,11 @@
   
 <br/>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a3x3k&theme=github_dark) &nbsp; &nbsp; &nbsp; &nbsp; ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a3x3k&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a3x3k&theme=github_dark) &nbsp; &nbsp; ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a3x3k&theme=github_dark)
  
  <br/>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rithvik78&theme=github_dark) &nbsp; &nbsp; &nbsp; &nbsp;  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a3x3k&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rithvik78&theme=github_dark) &nbsp; &nbsp;  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a3x3k&theme=github_dark) 
   
 <br/>
   
