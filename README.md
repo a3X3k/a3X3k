@@ -184,8 +184,9 @@
   
 <!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
    -->
-<p align="center"><a href="https://github.com/rithvik78"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7789B&size=30&center=true&vCenter=true&lines=%3C+With+❤️+from+India+IN+%3C;"></a></p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%2300F7F4&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+India+IN+%5C%3E)](https://git.io/typing-svg)
+  
 <table>
   <tr>
     <td>You are visitor</td>
