@@ -184,7 +184,7 @@
   
 <!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
    -->
-<p align="center"> With ❤️ from India 🇮🇳 </p>
+<p align="center"> With ❤️ from India 🇮🇳 <a href="https://github.com/rithvik78"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7789B&size=30&center=true&vCenter=true&lines=%3C+With+❤️+from+India+IN;"></a> </p>
 
 <table>
   <tr>
