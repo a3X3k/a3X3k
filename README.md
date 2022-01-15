@@ -156,9 +156,7 @@
   
 <br/>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a3x3k&theme=github_dark) &nbsp; &nbsp; 
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a3x3k&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a3x3k&theme=github_dark) &nbsp; ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a3x3k&theme=github_dark)
  
  <br/>
   
