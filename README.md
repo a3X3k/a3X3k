@@ -270,6 +270,7 @@
   </tr>
 </table>
   
+<br/>
   
 <a href="https://github.com/a3x3k" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/a3x3k?label=Github%20followers&style=for-the-badge">
