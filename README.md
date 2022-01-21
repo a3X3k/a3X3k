@@ -270,6 +270,11 @@
   </tr>
 </table>
   
+  
+<a href="https://github.com/a3x3k" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/a3x3k?label=Github%20followers&style=for-the-badge">
+</a>
+  
 </div>
 
 <p align="center"><a href="https://github.com/a3x3k"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
