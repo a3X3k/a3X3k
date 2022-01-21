@@ -188,7 +188,7 @@
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=a3x3k&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/a3x3k)
-  
+
 <br/>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a3x3k&theme=github_dark) 
@@ -212,8 +212,8 @@
 <br/>
 <br/>
 <br/>
-  
-[!['S Abhishek github activity graph](https://activity-graph.herokuapp.com/graph?username=a3x3k&theme=react-dark)](https://github.com/a3x3k/github-readme-activity-graph)
+ 
+![S Abhishek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=a3x3k&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   
 <br/>
 
