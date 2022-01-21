@@ -69,12 +69,10 @@
 <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
-  &emsp;
-  
-<a href="https://www.java.com/en/">
+  &emsp;<a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
-  &emsp;
+&emsp;
   
 ### 👉 Databases & Cloud Hosting
 
