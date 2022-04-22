@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CTF+Player+@TeamBi0s;Digital+Forensics+Analyst;&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Digital+Forensics;&center=true&width=500&height=50"></a>
   
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
@@ -22,8 +22,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- Member of Security Research & CTF team [`@teamBi0s`](https://bi0s.in/)
-- 🔭 I’m currently working on **Digital Forensics**
+- Former Member of Security Research & CTF team [`@teamBi0s`](https://bi0s.in/)
 - 📫 How to reach me **abhishekabi2002@gmail.com**
 - Wanna Stalk My Blog? [`Here you go!!`](https://a3x3k.github.io/)
 
