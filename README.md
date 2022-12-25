@@ -193,32 +193,24 @@
 <p align="center">
   <br>
   <a href="https://twitter.com/a3x3k" target="_blank">
-    <code><img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/T.svg"/></code>
+    <code><img height="90" width="90" src="https://user-images.githubusercontent.com/52845731/209470685-b0bd3f9d-5020-4e30-9ad6-8705268a295f.png"/></code>
   </a>
-    <a href="https://github.com/a3x3k">
-    <code><img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/G.svg"></code>  
-  </a>
-  <a href="https://discord.com/users/766592972040699925">
+  
+  <a href="https://www.linkedin.com/in/a3x3k/">
     <code>
-      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/D.svg">
+      <img height="90" width="90" src="https://user-images.githubusercontent.com/52845731/209470715-eaf3665c-c0c2-4ef2-b0de-3d22b3a24242.png">
     </code>
   </a>
-    <a href="https://www.linkedin.com/in/a3x3k/">
+  
+  <a href="https://www.facebook.com/a3x3k/">
     <code>
-      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/L.svg">
+      <img height="90" width="90" src="https://user-images.githubusercontent.com/52845731/209470643-20367888-9bc4-4e38-b6a0-563a4be58a1a.png">
     </code>
   </a>
-    </a>
-    <a href="https://www.facebook.com/a3x3k/">
+
+  <a href="https://www.instagram.com/a3X3k/">
     <code>
-      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/F.svg">
-    </code>
-  </a>
-    </a>
-    </a>
-    <a href="https://www.instagram.com/a3X3k/">
-    <code>
-      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/I.svg">
+      <img height="90" width="90" src="https://user-images.githubusercontent.com/52845731/209470659-9919fd0b-25f5-40ee-8a8e-5371fba33e7e.png">
     </code>
   </a>
 </p>
