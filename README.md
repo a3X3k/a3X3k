@@ -192,32 +192,32 @@
 <p align="center">
   <br>
   <a href="https://twitter.com/a3x3k" target="_blank">
-    <code><img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/T.svg"/></code>
+    <code><img height="50" width="50" src="https://github.com/a3X3k/-Random-/blob/main/T.svg"/></code>
   </a>
     <a href="https://github.com/a3x3k">
-    <code><img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/G.svg"></code>  
+    <code><img height="50" width="50" src="https://github.com/a3X3k/-Random-/blob/main/G.svg"></code>  
   </a>
   <a href="https://discord.com/users/766592972040699925">
     <code>
-      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/D.svg">
+      <img height="50" width="50" src="https://github.com/a3X3k/-Random-/blob/main/D.svg">
     </code>
   </a>
     <a href="https://www.linkedin.com/in/a3x3k/">
     <code>
-      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/L.svg">
+      <img height="50" width="50" src="https://github.com/a3X3k/-Random-/blob/main/L.svg">
     </code>
   </a>
     </a>
     <a href="https://www.facebook.com/a3x3k/">
     <code>
-      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/F.svg">
+      <img height="50" width="50" src="https://github.com/a3X3k/-Random-/blob/main/F.svg">
     </code>
   </a>
     </a>
     </a>
     <a href="https://www.instagram.com/a3X3k/">
     <code>
-      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/I.svg">
+      <img height="50" width="50" src="https://github.com/a3X3k/-Random-/blob/main/I.svg">
     </code>
   </a>
 </p>
