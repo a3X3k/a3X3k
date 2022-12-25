@@ -14,11 +14,11 @@
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Former+Digital+Forensics+Analyst+@+Team+Bi0s;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Former+Digital+Forensics+Analyst+@Team+Bi0s;&center=true&width=500&height=50">
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer+Intern+@+Rolls-Royce;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer+Intern+@Rolls-Royce;&center=true&width=500&height=50">
   
 </a>
   
