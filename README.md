@@ -24,7 +24,7 @@
   
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
-<p><em>Computer Science UnderGraduate at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Computer Science Under-Graduate at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 </div>
 
