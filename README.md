@@ -10,10 +10,6 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Digital+Forensics+Analyst;&center=true&width=500&height=50">
-  
-  <br/>
-  
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer+Intern+@Rolls-Royce;&center=true&width=500&height=50">
   
   <br/>
