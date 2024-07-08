@@ -158,10 +158,10 @@ Computer Science Graduate from <a href="https://www.amrita.edu/campus/amritapuri
 
 ### Spotify Playing 🎧
 
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
+<p align="center"> 
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/>
+</p>
 
-<!-- [![Spotify](https://spotify-now-playing-rithvik78.vercel.app/api/spotify-playing)](https://open.spotify.com/)
- -->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> 
 
 <p align="center">
