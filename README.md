@@ -214,10 +214,6 @@ Computer Science Graduate from <a href="https://www.amrita.edu/campus/amritapuri
 
 <br/>
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a3x3k&theme=chartreuse_dark)
-  
-<br/>
-  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a3x3k&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a3x3k&theme=github_dark)
  
  <br/>
