@@ -214,7 +214,7 @@ Computer Science Graduate from <a href="https://www.amrita.edu/campus/amritapuri
 
 <br/>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a3x3k&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a3x3k&theme=chartreuse_dark)
   
 <br/>
   
