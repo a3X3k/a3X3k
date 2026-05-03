@@ -17,11 +17,7 @@
 
 <div align="center">
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer+@Rolls-Royce;&center=true&width=500&height=50" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Former+Digital+Forensics+Analyst+@Team+Bi0s;&center=true&width=500&height=50" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Data+Engineer+@Rolls-Royce;Former+Digital+Forensics+Analyst+@Team+Bi0s" alt="Typing SVG" />
 
 <br/>
 
@@ -59,15 +55,15 @@
 
 <br/>
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github-api/github-api.png" /></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></code>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github-api/github-api.png" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 
 </div>
 
@@ -136,7 +132,7 @@
 
 ### 📕 My Latest Blog Posts!
 
-<img width="50%" align="right" alt="GitHub Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="GitHub Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - [All about OS - What is Patch, Service Pack & Build](https://a3x3k.medium.com/all-about-os-91744c29ebef)
 - [Memory Forensics - Introduction to Memory Forensics](https://a3x3k.medium.com/memory-forensics-d769ad20cff8)
@@ -148,7 +144,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<img align="right" alt="GIF" height="180" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="150" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
@@ -172,7 +168,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h2>
+<h2 align="left">
   Connect With Me
   <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif?raw=true" height="32" />
 </h2>
@@ -180,23 +176,19 @@
 <div align="center">
 
 <a href="mailto:abhishekabi2002@gmail.com">
-  <img height="50" width="50" src="https://api.iconify.design/logos:google-gmail.svg" hspace="10" />
+  <img height="50" width="50" src="https://api.iconify.design/logos:google-gmail.svg" />
 </a>
-
 <a href="https://www.linkedin.com/in/a3x3k/">
-  <img height="50" width="50" src="https://user-images.githubusercontent.com/52845731/209470715-eaf3665c-c0c2-4ef2-b0de-3d22b3a24242.png" hspace="10" />
+  <img height="50" width="50" src="https://user-images.githubusercontent.com/52845731/209470715-eaf3665c-c0c2-4ef2-b0de-3d22b3a24242.png" />
 </a>
-
 <a href="https://twitter.com/a3x3k">
-  <img height="50" width="50" src="https://user-images.githubusercontent.com/52845731/209470685-b0bd3f9d-5020-4e30-9ad6-8705268a295f.png" hspace="10" />
+  <img height="50" width="50" src="https://user-images.githubusercontent.com/52845731/209470685-b0bd3f9d-5020-4e30-9ad6-8705268a295f.png" />
 </a>
-
 <a href="https://www.instagram.com/a3X3k/">
-  <img height="50" width="50" src="https://user-images.githubusercontent.com/52845731/209470659-9919fd0b-25f5-40ee-8a8e-5371fba33e7e.png" hspace="10" />
+  <img height="50" width="50" src="https://user-images.githubusercontent.com/52845731/209470659-9919fd0b-25f5-40ee-8a8e-5371fba33e7e.png" />
 </a>
-
 <a href="https://www.facebook.com/a3x3k/">
-  <img height="50" width="50" src="https://user-images.githubusercontent.com/52845731/209470643-20367888-9bc4-4e38-b6a0-563a4be58a1a.png" hspace="10" />
+  <img height="50" width="50" src="https://user-images.githubusercontent.com/52845731/209470643-20367888-9bc4-4e38-b6a0-563a4be58a1a.png" />
 </a>
 
 </div>
@@ -205,21 +197,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h2><i>Git Activeness</i></h2>
+<h2 align="center"><i>Git Activeness</i></h2>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a3x3k&theme=midnight_purple)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a3x3k&theme=midnight_purple" />
 
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a3x3k&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a3x3k&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a3x3k&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a3x3k&theme=github_dark" />
 
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a3x3k&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a3x3k&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a3x3k&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a3x3k&theme=github_dark" />
 
 <br/>
 
@@ -246,7 +238,9 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%231B0EF7&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8F+from+India+IN+%5C%3E)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Cambria&color=1B0EF7&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8F+from+India+IN+%5C%3E" alt="Typing SVG" />
+
+<br/>
 
 <table>
   <tr>
