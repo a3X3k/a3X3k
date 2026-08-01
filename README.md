@@ -72,11 +72,6 @@ whoami:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=a3x3k&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=A78BFA&icon_color=8B5CF6&text_color=D3D3D3&bg_color=0,0F0F1A,1A1030&border_color=8B5CF6&hide_border=false" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3x3k&layout=compact&title_color=A78BFA&text_color=D3D3D3&bg_color=0,0F0F1A,1A1030&border_color=8B5CF6&hide_border=false" height="180"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=a3x3k&theme=radical&hide_border=true&background=0F0F1A&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <br/>
